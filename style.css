@@ -45,8 +45,7 @@ img {
 /* Groups and items (Desktop) */
 
 @media all and (min-width: 800px) {
-  section,
-  h1 {
+  section {
     padding: 0 10%;
   }
 

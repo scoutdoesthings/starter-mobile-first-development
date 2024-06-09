@@ -28,6 +28,10 @@ main p {
   margin-top: 0;
 }
 
+main img {
+  width: 33.3%;
+}
+
 img {
   width: 100%;
 }
